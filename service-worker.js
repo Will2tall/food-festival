@@ -1,15 +1,15 @@
 const FILES_TO_CACHE = [
-    './index.html',
-    './events.html',
-    './tickets.html',
-    './schedule.html',
-    './assets/css/style.css',
-    './assets/css/bootstrap.css',
-    './assets/css/tickets.css',
-    './dist/app.bundle.js',
-    './dist/events.bundle.js',
-    './dist/ticket.bundle.js',
-    './dist/schedule.bundle.js'
+    "./index.html",
+    "./events.html",
+    "./tickets.html",
+    "./schedule.html",
+    "./assets/css/style.css",
+    "./assets/css/bootstrap.css",
+    "./assets/css/tickets.css",
+    "./dist/app.bundle.js",
+    "./dist/events.bundle.js",
+    "./dist/ticket.bundle.js",
+    "./dist/schedule.bundle.js"
 ];
 const APP_PREFIX = 'FoodFest-';
 const VERSION = 'version_01';
