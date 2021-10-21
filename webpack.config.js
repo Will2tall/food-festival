@@ -7,9 +7,9 @@ const path = require('path');
 const config = {
   entry: {
     app: './assets/js/script.js',
-    event: './assets/js/event.js',
+    events: './assets/js/events.js',
     schedule: './assets/js/schedule.js',
-    ticket: './assets/js/ticket.js'
+    tickets: './assets/js/tickets.js'
   },
   output: {
     filename: '[name].bundle.js',
